@@ -1,5 +1,5 @@
 void main()
 {
   puts("Hello Main");
-  puts("Another");
+  puts("Another✔😃 ");
 }
